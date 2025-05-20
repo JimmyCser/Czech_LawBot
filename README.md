@@ -64,7 +64,7 @@ AZURE_OPENAI_EMBED_MODEL_DEPLOYMENT=ace-text-embedding-3-large
 
 NEO4J_URI=bolt://localhost:7687
 NEO4J_USER=neo4j
-NEO4J_PASS=czech123
+NEO4J_PASS=#your neo4jDB password
 ```
 
 ---
