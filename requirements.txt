@@ -1,0 +1,11 @@
+openai>=1.0.0
+PyMuPDF>=1.23.0
+neo4j
+python-dotenv
+tiktoken
+unstructured
+numpy
+langgraph
+langchain>=0.1.14
+langchain-openai>=0.1.5
+langchain-community>=0.0.21
